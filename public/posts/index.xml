@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Terminal</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blogtitle</title>
-      <link>//localhost:1313/posts/posts/first-blog/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/posts/first-blog/</guid>
-      <description>&lt;h1 id=&#34;very-cool-blog&#34;&gt;Very Cool Blog&lt;/h1&gt;&#xA;&lt;h3 id=&#34;some-text&#34;&gt;Some text&lt;/h3&gt;&#xA;&lt;p&gt;==Highlight this text==&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020250629233247.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020250629233404.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/posts/second-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/posts/second-blog/</guid>
-      <description>&lt;h3 id=&#34;test-blog&#34;&gt;test blog&lt;/h3&gt;&#xA;&lt;p&gt;==pls work==&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020250630100307.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Terminal</title><link>http://localhost/posts/</link><description>Recent content in Posts on Terminal</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>blogtitle</title><link>http://localhost/posts/first-blog/</link><pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost/posts/first-blog/</guid><description>&lt;h1 id="very-cool-blog">Very Cool Blog&lt;/h1>
+&lt;h3 id="some-text">Some text&lt;/h3>
+&lt;p>==Highlight this text==&lt;/p>
+&lt;ul>
+&lt;li>hi&lt;/li>
+&lt;/ul>
+&lt;p>!&lt;img src="http://localhost/images/Pasted%20image%2020250629233247.png" alt="Image Description">&lt;/p>
+&lt;p>!&lt;img src="http://localhost/images/Pasted%20image%2020250629233404.png" alt="Image Description">&lt;/p></description></item><item><title/><link>http://localhost/posts/another-blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost/posts/another-blog/</guid><description>&lt;h1 id="heading">heading&lt;/h1>
+&lt;ul>
+&lt;li>hello
+!&lt;img src="http://localhost/images/Pasted%20image%2020250630101407.png" alt="Image Description">&lt;/li>
+&lt;/ul></description></item><item><title/><link>http://localhost/posts/second-blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost/posts/second-blog/</guid><description>&lt;h3 id="test-blog">test blog&lt;/h3>
+&lt;p>==pls work==&lt;/p>
+&lt;p>!&lt;img src="http://localhost/images/Pasted%20image%2020250630100307.png" alt="Image Description">&lt;/p></description></item></channel></rss>

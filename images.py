@@ -3,7 +3,7 @@ import re
 import shutil
 
 # Paths
-posts_dir = "/Users/omkakkad/Obsidian/OmBlog/content/posts/posts"
+posts_dir = "/Users/omkakkad/Obsidian/OmBlog/content/posts"
 attachments_dir = "/Users/omkakkad/Obsidian/Om/attachments"
 static_images_dir = "/Users/omkakkad/Obsidian/OmBlog/static/images"
 
